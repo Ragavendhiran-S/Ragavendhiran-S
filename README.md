@@ -1,16 +1,15 @@
-### Hi there 👋
+<body style="font-family: Arial, Helvetica, sans-serif">
+<h1 align="center">I'm Ragavendhiran,</h1>
+<h3 align="center">A student who is passionate about full-stack web development and eager to explore the world of Artificial Intelligence(AI).
+</h3>
 
-<!--
-**Ragavendhiran-S/Ragavendhiran-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+- Currently learning and implementing on **Full-Stack web apps**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Portfolio - [https://ragavendhiran.netlify.app](https://ragavendhiran.netlify.app).
+
+- **Working Technologies :** Full-Stack website development, Java Application Development.
+</p>
+</body>
+
